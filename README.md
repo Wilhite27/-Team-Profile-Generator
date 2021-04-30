@@ -26,3 +26,4 @@ THEN I exit the application, and the HTML is generated.
 
 ## Mock-Up
 ![10-object-oriented-programming-homework-demo](https://user-images.githubusercontent.com/77178392/116641197-d9f2ed00-a931-11eb-8061-792b52088189.png)
+
