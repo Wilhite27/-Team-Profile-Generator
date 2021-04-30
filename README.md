@@ -6,7 +6,7 @@ I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
 ## Acceptance Criteria 
-GIVEN a command-line application that accepts user input
+GIVEN a command-line application that accepts user input <br>
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
 WHEN I click on an email address in the HTML
